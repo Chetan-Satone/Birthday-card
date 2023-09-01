@@ -1,5 +1,5 @@
 # Birthday-card
-Birthday card is a android application which is used to wish birthday. This app created to using intent to from one activity to another and created xml layouts.
+Birthday card is a android application which is used to wish birthday. This app created by the use of Intent and XML layouts.
 
 # Built With
 * Kotlin - Programming language used in app.
